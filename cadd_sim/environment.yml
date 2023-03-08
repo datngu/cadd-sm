@@ -1,0 +1,13 @@
+name: cadd
+
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=2.7
+  - gzip
+  - bx-python
+  - bcftools
+  - samtools
